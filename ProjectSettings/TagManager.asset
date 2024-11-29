@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - DropPlayer
+  - Inimigos
+  - DropInimigos
+  - Objetos
+  - RoomActivator
+  - Coletaveis
+  - RoomLayout
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 167401151
+    locked: 0
+  - name: Objetos
+    uniqueID: 752742561
+    locked: 0
+  - name: Coletaveis
+    uniqueID: 1521216707
+    locked: 0
+  - name: Inimigos
+    uniqueID: 1036558999
+    locked: 0
+  - name: Player
+    uniqueID: 2054658663
+    locked: 0
+  - name: Decoracao
+    uniqueID: 1477582687
+    locked: 0

@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 06ae71f113292814aaa4e7503a166ec1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordIdleTest_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e9b02e789e0f479b484dc237d54a3
+      internalID: 825484439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIdleTest_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa61333d4b7744daaf1f2b619de5e5
+      internalID: 1496708387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIdleTest_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b41ccfb58e833142a054cd26fbc38f2
+      internalID: 2077734185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIdleTest_3
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122984eb239295e4ba78bb8465a8ef4e
+      internalID: -2117607922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIdleTest_4
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440475cb087ca24c89dedce73a0d516
+      internalID: -651180936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIdleTest_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fefc0daa601cbb4f8c9d03ab818e4db
+      internalID: 1492256522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIdleTest_6
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c12b6e57c23054e8a8a1bba3c50e3f
+      internalID: 1522045372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordIdleTest_7
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee23095d6f5065e49937424f30cdfcd3
+      internalID: -2102013914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SwordIdleTest_0: 825484439
+      SwordIdleTest_1: 1496708387
+      SwordIdleTest_10: -176263834
+      SwordIdleTest_100: -1307527055
+      SwordIdleTest_101: 508682320
+      SwordIdleTest_102: 938907427
+      SwordIdleTest_103: 415763404
+      SwordIdleTest_104: -218360032
+      SwordIdleTest_105: 76203104
+      SwordIdleTest_106: -1244705142
+      SwordIdleTest_107: 553897565
+      SwordIdleTest_108: 969983344
+      SwordIdleTest_109: 334326118
+      SwordIdleTest_11: -70095628
+      SwordIdleTest_110: -443420258
+      SwordIdleTest_111: -180985716
+      SwordIdleTest_112: 659640911
+      SwordIdleTest_12: 1386285860
+      SwordIdleTest_13: 1964428407
+      SwordIdleTest_14: -1953512802
+      SwordIdleTest_15: 985581718
+      SwordIdleTest_16: -375782828
+      SwordIdleTest_17: -1476866804
+      SwordIdleTest_18: 313697715
+      SwordIdleTest_19: 1059422405
+      SwordIdleTest_2: 2077734185
+      SwordIdleTest_20: -170071058
+      SwordIdleTest_21: 501806498
+      SwordIdleTest_22: 418695814
+      SwordIdleTest_23: -770905995
+      SwordIdleTest_24: -1438518997
+      SwordIdleTest_25: -1212368163
+      SwordIdleTest_26: -1082181898
+      SwordIdleTest_27: -1232362344
+      SwordIdleTest_28: 706773321
+      SwordIdleTest_29: 863240290
+      SwordIdleTest_3: -2117607922
+      SwordIdleTest_30: 243452067
+      SwordIdleTest_31: -1085512407
+      SwordIdleTest_32: -552242203
+      SwordIdleTest_33: 1571184011
+      SwordIdleTest_34: -700760373
+      SwordIdleTest_35: 854585287
+      SwordIdleTest_36: -1364471718
+      SwordIdleTest_37: -133639453
+      SwordIdleTest_38: -775291290
+      SwordIdleTest_39: 1849635826
+      SwordIdleTest_4: -651180936
+      SwordIdleTest_40: -1913062260
+      SwordIdleTest_41: 1530502100
+      SwordIdleTest_42: -1963826914
+      SwordIdleTest_43: 630950022
+      SwordIdleTest_44: 195739808
+      SwordIdleTest_45: -1825215391
+      SwordIdleTest_46: -1552605969
+      SwordIdleTest_47: 1501424428
+      SwordIdleTest_48: -2055026654
+      SwordIdleTest_49: -663235652
+      SwordIdleTest_5: 1492256522
+      SwordIdleTest_50: 2081255297
+      SwordIdleTest_51: 283405824
+      SwordIdleTest_52: -105728969
+      SwordIdleTest_53: -1652734720
+      SwordIdleTest_54: 295481299
+      SwordIdleTest_55: 1840285963
+      SwordIdleTest_56: 948715561
+      SwordIdleTest_57: 503506089
+      SwordIdleTest_58: -1328499455
+      SwordIdleTest_59: -525058673
+      SwordIdleTest_6: 1522045372
+      SwordIdleTest_60: 524155239
+      SwordIdleTest_61: -612925493
+      SwordIdleTest_62: -1689915509
+      SwordIdleTest_63: 1468069724
+      SwordIdleTest_64: 2014784581
+      SwordIdleTest_65: -1097110928
+      SwordIdleTest_66: 1175752288
+      SwordIdleTest_67: 1678219083
+      SwordIdleTest_68: 1729661649
+      SwordIdleTest_69: -11998136
+      SwordIdleTest_7: -2102013914
+      SwordIdleTest_70: 1639062593
+      SwordIdleTest_71: 329601589
+      SwordIdleTest_72: 2102039161
+      SwordIdleTest_73: 1215714277
+      SwordIdleTest_74: 1514735441
+      SwordIdleTest_75: -191709327
+      SwordIdleTest_76: -19260072
+      SwordIdleTest_77: -1514090576
+      SwordIdleTest_78: -1592786599
+      SwordIdleTest_79: -717046660
+      SwordIdleTest_8: -513001240
+      SwordIdleTest_80: -1226026149
+      SwordIdleTest_81: -333319131
+      SwordIdleTest_82: 1874923113
+      SwordIdleTest_83: 1337238550
+      SwordIdleTest_84: 1251252638
+      SwordIdleTest_85: -1586115448
+      SwordIdleTest_86: -134283013
+      SwordIdleTest_87: 1893793121
+      SwordIdleTest_88: -384901828
+      SwordIdleTest_89: 1279213435
+      SwordIdleTest_9: 1211344381
+      SwordIdleTest_90: 1583249926
+      SwordIdleTest_91: -1420028417
+      SwordIdleTest_92: -1127489722
+      SwordIdleTest_93: 379340916
+      SwordIdleTest_94: 2062575072
+      SwordIdleTest_95: -1270289839
+      SwordIdleTest_96: -1637732310
+      SwordIdleTest_97: 572251381
+      SwordIdleTest_98: 1545900363
+      SwordIdleTest_99: 1523946399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
